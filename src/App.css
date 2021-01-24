@@ -1,0 +1,28 @@
+.navbar{
+  color: grey;
+  margin-left: center;
+  text-align: center;
+}
+.main-content{
+  color: grey;
+  margin-left: center;
+  text-align: center;
+}
+span{
+  font-weight: bold;
+  padding-left: 20px;
+  margin-right: 20px;
+}
+.main-image {
+  float: left;
+  height: 200px;
+  width: 250px;
+  margin: 2px 0px 10px 30px;
+
+}
+
+.naija-image{
+  height: inherit;
+  margin-left: -30px;
+
+}
